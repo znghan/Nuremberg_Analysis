@@ -6,7 +6,7 @@ During my time at Insight Data Science, I consulted for [tolstoy.ai](https://tol
 ## Problem Statement
 The school has, in its archive, the transcript of the   
 
-![alt text](images/ProblemStatement1.png&s=200)
+![alt text](images/ProblemStatement1.png =200x200)
 
 ![alt text](images/ProblemStatement2.png)
 
