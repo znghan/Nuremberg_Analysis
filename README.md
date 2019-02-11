@@ -6,10 +6,22 @@ During my time at Insight Data Science, I consulted for [tolstoy.ai](https://tol
 ## Problem Statement
 The school has, in its archive, the transcript of the   
 
+![alt text](images/ProblemStatement1.png)
+
+![alt text](images/ProblemStatement2.png)
+
+
 ## Create Training Set
 
+![alt text](images/TrainSet.png)
 
 ## Feature Engineering 
+
+![alt text](images/Features1.png)
+
+![alt text](images/Features2.png)
+
+![alt text](images/Features3.png)
 
 
 ## Classification
@@ -17,5 +29,6 @@ The school has, in its archive, the transcript of the
 
 ## Performance Evaluation
 
+![alt text](images/Evaluation.png)
 
 ## Future Extensions
