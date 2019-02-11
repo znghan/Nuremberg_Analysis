@@ -6,7 +6,7 @@ During my time at Insight Data Science, I consulted for [tolstoy.ai](https://tol
 ## Problem Statement
 The school has, in its archive, the transcript of the   
 
-<img src="images/ProblemStatement1.png" width="48">
+<img src="images/ProblemStatement1.png" width="1000">
 
 ![alt text](images/ProblemStatement1.png)
 
