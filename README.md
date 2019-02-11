@@ -8,22 +8,21 @@ The school has, in its archive, the transcript of the
 
 <img src="images/ProblemStatement1.png" width="800">
 
-![alt text](images/ProblemStatement1.png)
-
-![alt text](images/ProblemStatement2.png)
+<img src="images/ProblemStatement2.png" width="800">
 
 
 ## Create Training Set
 
-![alt text](images/TrainSet.png)
+<img src="images/TrainSet.png" width="800">
+
 
 ## Feature Engineering 
 
-![alt text](images/Features1.png)
+<img src="images/Features1.png" width="800">
 
-![alt text](images/Features2.png)
+<img src="images/Features2.png" width="800">
 
-![alt text](images/Features3.png)
+<img src="images/Features3.png" width="800">
 
 
 ## Classification
@@ -31,6 +30,6 @@ The school has, in its archive, the transcript of the
 
 ## Performance Evaluation
 
-![alt text](images/Evaluation.png)
+<img src="images/Evaluation.png" width="800">
 
 ## Future Extensions
